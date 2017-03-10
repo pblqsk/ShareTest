@@ -1,4 +1,5 @@
 var jai = 12;
 console.log('got!!');
 
-alert('in the snow');
+
+alert(' in the sun');
